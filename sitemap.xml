@@ -21,9 +21,6 @@
 		<loc>https://www.medispring.be/jobs.html</loc>
 	</url>
 	<url>
-		<loc>https://www.medispring.be/home.html</loc>
-	</url>
-	<url>
 		<loc>https://www.medispring.be/gebruiker-worden.html</loc>
 	</url>
 	<url>
@@ -58,5 +55,8 @@
 	</url>
 	<url>
 		<loc>https://www.medispring.be/algemene-voorwaarden.html</loc>
+	</url>
+	<url>
+		<loc>https://www.medispring.be/index.html</loc>
 	</url>
 </urlset>
