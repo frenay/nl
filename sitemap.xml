@@ -9,9 +9,6 @@
 		<loc>https://www.medispring.be/agenda.html</loc>
 	</url>
 	<url>
-		<loc>https://www.medispring.be/politique-de-vie-privée.html</loc>
-	</url>
-	<url>
 		<loc>https://www.medispring.be/fin-de-topaz.html</loc>
 	</url>
 	<url>
@@ -58,5 +55,8 @@
 	</url>
 	<url>
 		<loc>https://www.medispring.be/index.html</loc>
+	</url>
+	<url>
+		<loc>https://www.medispring.be/privacybeleid.html</loc>
 	</url>
 </urlset>
