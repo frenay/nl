@@ -6704,6 +6704,12 @@ a {
 .cid-t7C41ZQTcH .hs-form-iframe {
   min-height: 1200px;
 }
+.cid-t7C41ZQTcH div[class^="submitted-message"] {
+  padding-top: 1000;
+}
+.cid-t7C41ZQTcH div.submitted-message_none {
+  padding-top: 0px !important;
+}
 .cid-swc9RaQ9Mq {
   padding-top: 3rem;
   padding-bottom: 5rem;
