@@ -24909,6 +24909,18 @@ a {
 .cid-t8V79lGISB .align-wrap {
   color: #999999;
 }
+#custom-html-iz {
+  /* Type valid CSS here */
+}
+#custom-html-iz div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-iz p {
+  font-size: 60px;
+  color: #777;
+}
 .cid-t8V79mGR1I .navbar {
   padding: 0.5rem 0;
   background: #ffffff;
