@@ -42,9 +42,6 @@
 		<loc>https://www.medispring.be/over-medispring.html</loc>
 	</url>
 	<url>
-		<loc>https://www.medispring.be/officiele-focumenten.html</loc>
-	</url>
-	<url>
 		<loc>https://www.medispring.be/getuigenissen.html</loc>
 	</url>
 	<url>
@@ -61,5 +58,8 @@
 	</url>
 	<url>
 		<loc>https://www.medispring.be/page20.html</loc>
+	</url>
+	<url>
+		<loc>https://www.medispring.be/officiele-documenten.html</loc>
 	</url>
 </urlset>
