@@ -769,67 +769,6 @@ a {
   padding-bottom: 2rem;
   background-color: #ffffff;
 }
-.cid-swtB2KareF {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-swtB2KareF .mbr-section-title {
-  margin: 20px 0 40px;
-}
-.cid-swtB2KareF .mbr-text {
-  color: #919dab;
-  margin-bottom: 0;
-  letter-spacing: 2px;
-}
-.cid-swtB2KareF .form-group {
-  margin-bottom: 0;
-}
-.cid-swtB2KareF .dragArea .form-control {
-  color: #919dab;
-  margin-bottom: 30px;
-  border: 2px solid rgba(235, 234, 237, 0.4) !important;
-  font-weight: 700;
-  padding: 0 25px;
-  height: 60px;
-  font-size: 20px;
-  border-radius: 30px;
-  background-color: #ffffff !important;
-}
-.cid-swtB2KareF .dragArea textarea {
-  height: 170px !important;
-  border-radius: 10px !important;
-  padding-top: 15px !important;
-  padding-bottom: 15px !important;
-  resize: none;
-}
-.cid-swtB2KareF .dragArea input::placeholder {
-  color: #919dab;
-  opacity: .6;
-}
-.cid-swtB2KareF .dragArea textarea::placeholder {
-  color: #919dab;
-  opacity: .6;
-}
-.cid-swtB2KareF .dragArea .input-group-btn .btn {
-  width: 100%;
-  margin: 0;
-  font-weight: 700;
-  height: 60px;
-}
-.cid-swtB2KareF .bottom__block {
-  margin-top: 50px;
-}
-.cid-swtB2KareF .bottom__title {
-  margin-bottom: 10px;
-  letter-spacing: 2px;
-  text-align: center;
-}
-.cid-swtB2KareF .bottom__text {
-  color: #919dab;
-  margin-bottom: 0;
-  text-align: center;
-}
 .cid-sw0R7hXAes {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -6656,6 +6595,9 @@ a {
   text-align: right;
 }
 .cid-swc9PrBNmy .card-title {
+  text-align: left;
+}
+.cid-swc9PrBNmy .card-title P {
   text-align: left;
 }
 .cid-swc9Q2R6pK {
