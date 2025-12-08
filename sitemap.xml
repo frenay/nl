@@ -9,9 +9,6 @@
 		<loc>https://www.medispring.be/over-medispring.html</loc>
 	</url>
 	<url>
-		<loc>https://www.medispring.be/officiele-focumenten.html</loc>
-	</url>
-	<url>
 		<loc>https://www.medispring.be/algemene-voorwaarden.html</loc>
 	</url>
 	<url>
@@ -79,5 +76,11 @@
 	</url>
 	<url>
 		<loc>https://www.medispring.be/index.html</loc>
+	</url>
+	<url>
+		<loc>https://www.medispring.be/officiele-documenten.html</loc>
+	</url>
+	<url>
+		<loc>https://www.medispring.be/page27.html</loc>
 	</url>
 </urlset>
